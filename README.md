@@ -3,7 +3,7 @@
 É uma aplicação web que fornece a previsão do tempo de uma cidade inserida pelo usuário. 
 <br>
 <br>
-<img src="https://github.com/AgathaHert/Tempo/assets/156599612/5ece0798-e935-4222-9932-e33c6f645b23">
+<img src="https://github.com/AgathaHert/Previsao-do-Tempo/assets/156599612/5de07a5c-d6e2-46e4-8d19-46ae696189c1">
 <br>
 
 ### Funcionalidades Implementadas
